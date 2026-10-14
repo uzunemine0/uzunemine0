@@ -23,10 +23,7 @@
         <li>💡 <b>İlgi Alanlarım:</b> Web Uygulamaları, AgTech (Tarım Teknolojileri), Artırılmış Gerçeklik (AR), İnsan-Bilgisayar Etkileşimi (HCI) ve Veri Mimarisi.</li>
         <li>⚡ <b>Eğitim & Başarılar:</b> IBM AI4Future & Akbank Yazılım Bilişim Sertifikası sahibi.</li>
       </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=donut&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
+    </td> 
   </tr>
 </table>
 
